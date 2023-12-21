@@ -22,8 +22,8 @@
     "react": "^18.2.0"
   },
   "devDependencies": {
-    "@testing-library/react-hooks": "^3.4.2",
-    "@types/react": "^16.9.34",
+    "@testing-library/react-hooks": "^3.7.0",
+    "@types/react": "^18.0.17",
     "@typescript-eslint/eslint-plugin": "^2.27.0",
     "@vitejs/plugin-react": "^4.2.0",
     "react": "^18.2.0",
