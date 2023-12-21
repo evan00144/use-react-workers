@@ -13,7 +13,7 @@
     "rimraf": "^5.0.5"
   },
   "scripts": {
-    "preinstall": "npx only-allow yarn",
+    "preinstall": "npx only-allow npm",
     "dev": "concurrently \"yarn hooks dev\" \"yarn docs dev\"",
     "build": "yarn hooks build && yarn docs build",
     "hooks": "yarn workspace use-react-workers",
